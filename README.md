@@ -1,19 +1,45 @@
-# 💫 About Me:
-👑 Founder of GameNxG.com<br><br>🎮 I develop games on Roblox.<br><br>💡 I create cool and helpful projects.
+## Building in publi
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/co11d_ofc/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/co11d/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Co11d_ofc) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gameofarush@gmail.com) 
+# C011d
 
+> Technical founder
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=C011D&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=C011D&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=C011D&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=c011d&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F192962120%3Fu%3De2834979b69396ecd03eac0eeb61515617ac4c2f%26v%3D4" alt="c011d hero visual" />
+</p>
 
-### ✍️  Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
----
-[![](https://komarev.com/ghpvc/?username=C011D&icon=0&color=0)](https://visitcount.itsvg.in)
+## The point of view
 
+> Building useful things and learning in public.
+
+- 🏢 Working at **Kathotech**
+- 🌐 [Website](kathotech.com)
+- 👥 **0** followers · **0** following
+
+*Small, useful work over vague claims.*
+
+## Products and proof
+
+<table>
+<tr><td width="32%"><b><a href="https://github.com/C011D/C011D">C011D</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
+</table>
+
+## Momentum
+
+<table>
+<tr><td align="center"><b>1</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>4</b><br/><sub>contributions</sub></td></tr>
+</table>
+
+## Start a conversation
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=c011d&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F192962120%3Fu%3De2834979b69396ecd03eac0eeb61515617ac4c2f%26v%3D4" alt="c011d social visual" />
+</p>
+
+<a href="https://github.com/c011d">GitHub</a> · <a href="https://kathotech.com">Website</a>
+
+<p align="center"><sub>C011d · Founder profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
